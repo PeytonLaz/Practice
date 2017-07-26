@@ -1,0 +1,11 @@
+4 pages
+10 images
+menu
+background color black
+use html
+use css
+deathnote theme
+text white
+location tokyo japan
+font cloister
+takeout options
